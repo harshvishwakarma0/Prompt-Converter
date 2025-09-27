@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Converter",
+  "description": "An intelligent tool to transform your simple text into powerful, structured prompts for AI models. Select from various templates, choose your output format, and get optimized prompts instantly.",
+  "requestFramePermissions": []
+}
